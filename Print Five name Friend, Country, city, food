@@ -1,0 +1,54 @@
+Q1. print five friend name.
+Ans. 		#include <stdio.h>
+
+int main()
+{
+    printf("Five friend name");
+    printf(" suren, sandeep, nihal. nirmal, amit");
+
+    return 0;
+}
+Q2. print five country name.
+Ans.		 #include <stdio.h>
+
+int main()
+{
+    printf("Five country name");
+    printf(" india, us, uk, canada, australia ");
+
+    return 0;
+}
+
+Q3. print five city name.
+Ans. 	#include <stdio.h>
+
+int main()
+{
+    printf("Five city name");
+    printf(" jaipur, delhi, surat, chandigarh, mumbai ");
+
+    return 0;
+}
+
+Q4. print five food name.
+Ans. #include <stdio.h>
+
+int main()
+{
+    printf("Five food name");
+    printf(" rice, daal, fish, salad, bread");
+
+    return 0;
+}
+
+ Q5. print five fruit name.
+Ans. 	#include <stdio.h>
+
+int main()
+{
+    printf("Five fruit name");
+    printf("banana, apple, pear, lime, cheery");
+
+    return 0;
+}
+
