@@ -1,0 +1,45 @@
+Q1. Print -56 number.
+Ans. 
+#include <stdio.h>
+   	int main()
+{
+    int a = -56;
+    printf("%d", a );
+    return 0;
+}
+
+
+Q2. print R.
+Ans. 
+#include <stdio.h>
+   int main()
+    {
+        char ab = 'r';
+        printf("%c", ab);
+        return 0;
+    }
+
+
+
+Q3 print 2.532.
+Ans. 
+#include <stdio.h>
+      int main()
+      {
+        float a = 2.532;
+        printf("%f", a);
+        return 0;
+      }
+
+Q4 print 34 , -2.34.
+Ans.
+#include <stdio.h>
+      int main()
+      {
+      	float a = -2.34;
+      	int b = 34;
+      	printf("%f", a);
+      	printf ("%d", b);
+        return 0;
+      }
+
