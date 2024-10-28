@@ -1,0 +1,162 @@
+Q1.Add numbers 45+78+23+12
+Ans. 
+#include <stdio.h>
+
+int main()
+{
+    
+    int a = 45;
+    int b = 78;
+    int c = 23;
+    int d = 12; 
+    int e = a+b+c+d;
+    printf ("%d", e);
+    
+    return 0;
+}
+
+-------------------------------------------
+Q2.Solve 56*34+12/2-13
+Ans.  	#include <stdio.h>
+int main()
+{
+    int a = 56;
+    int b = 34;
+    int c = 12;
+    int d = 2;
+    int e = 13;
+    float result = a*b+c/d-e;
+    printf ("%f", result);
+    
+    return 0;
+}
+
+
+--------------------------------------------
+Q3.Solve.2*6.7-4.5/2 
+Ans.  	#include <stdio.h>
+int main()
+{
+    int a = 2;
+    float b = 6.7;
+    float c = 4.5;
+    int d = 2;
+    float result = a*b-c/d;
+    printf ("%f", result);
+    
+    return 0;
+}
+
+
+
+		
+-------------------------------------------
+Q4.Solve.6*(12-2)/2+7.8-1.5 
+Ans. 
+#include <stdio.h>
+
+int main()
+{
+     
+    int a = 6;
+    int b = 12;
+    int c = 2;
+    float d = 7.8;
+    float e = 1.5;
+    float result = a*(b-c)/c+d-e;
+    printf ("%f", result);
+    
+    return 0;
+}
+
+
+-------------------------------
+Q5.Solve 4.5*1.2-(82/2)-5.6 +1.234
+Ans. 
+#include <stdio.h>
+
+int main()
+{
+
+	float a = 4.5;
+	float b = 1.2;
+	int c = 82;
+	int d = 2;
+	float e = 5.6;
+	float f = 1.234;
+	float result = a*b-(c/d)-e+f;
+	printf("%f", result);
+
+	return 0;
+}
+
+
+-----------------------------------------
+Q6.Solve 8*1+(4-2)/1+6
+Ans. 
+
+#include <stdio.h>
+
+int main()
+{
+   
+	int a = 8;
+	int b = 1;
+	int c = 4;
+	int d = 2;
+	int e = 1;
+	int f = 6;
+	
+	float result = a*b+(c-d)/e+f;
+	printf("%f", result);
+
+	return 0;
+}
+
+
+-----------------------------------
+Q7.Solve 3.4+1.2*(3.7-1.2)/2+6.8 
+Ans.
+	#include <stdio.h>
+
+int main()
+{
+ 
+   
+	float a = 3.4;
+	float b = 1.2;
+	float  c = 3.7;
+	int d = 2;
+	float e = 6.8;
+	
+	float result = a+b*(c-b)/d+e;
+	printf("%f", result);
+
+	return 0;
+}
+
+
+	
+----------------------------------
+Q8.Solve 8.9*1.67-(6.21-5.6)+7.8-34 +157
+Ans.
+		#include <stdio.h>
+
+int main()
+{
+  
+	float a = 8.9;
+	float b = 1.67;
+	float c = 6.21;
+	float d = 5.6;
+	float e = 7.8;
+	int f = 34;
+	int g = 15;
+	
+	float result = a+b-(c-b)+e-f+g;
+	printf("%f", result);
+
+	return 0;
+}
+
+		
